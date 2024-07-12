@@ -1,0 +1,161 @@
+@media only screen and (max-width: 745px) {
+  .nav_ber {
+    justify-content: center;
+  }
+
+  .navigation li {
+    display: inline-block;
+    padding: 16px 15px;
+    font-size: 17px;
+  }
+
+  #header_area .header1 {
+    width: 100%;
+    margin: 30px 5px;
+  }
+
+  #header_area .header1 h1 {
+    font-size: 40px;
+    text-align: center;
+  }
+
+  #header_area .header1 h2 {
+    font-size: 35px;
+    text-align: center;
+
+  }
+
+  #header_area .header2 {
+    margin: 30px 5px;
+    text-align: center;
+    width: 100%;
+
+  }
+
+  .partner_head {
+    margin: 100px 5px;
+    text-align: center;
+
+  }
+
+  .partner {
+    margin: 100px 2px;
+    justify-content: space-between;
+
+  }
+
+  .service_child {
+    width: 600px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .footer {
+    justify-content: center;
+  }
+  .service_header h2{
+    padding: 80px 4px 0px 4px;
+    font-size: 55px;
+  }
+  .service_header p{
+    padding: 5px;
+    font-size: 25px;
+  }
+  .contact_header h2{
+    padding: 80px 4px 0px 4px;
+    font-size: 55px;
+  }
+  .contact_header p{
+    padding: 5px;
+    font-size: 20px;
+  }
+  .blog_header h2{
+    padding: 80px 4px 0px 4px;
+    font-size: 55px;
+  }
+  .blog_header p{
+    padding: 5px;
+    font-size: 25px;
+  }
+  .about_me h1{
+    font-size: 35px;
+  }
+  .about_me p{
+    font-size: 25px;
+  }
+  .about_me p span{
+    font-size: 25px;
+  }
+  .education{
+    margin: 0px;
+    width: 100%;
+  }
+  
+  .education .education_child{
+    width: 100%;
+    margin: 20px 4px;
+  }
+  .education .education_child_child{
+    margin: 20px 7px;
+    margin-bottom: 30px;
+  }
+  
+  .education .education_child_child svg {
+    width: 38px;
+    height: 38px;
+  }
+  .education .education_child_child h3 {
+    font-size:18px;
+  }
+  
+  .percentaze{
+    width: 150px;
+  }
+  .experience h1{
+    font-size: 35px;
+  }
+  .experience p{
+    font-size: 25px;
+  }
+
+}
+
+@media only screen and (max-width: 652px) {
+  .partner {
+    margin: 100px 2px;
+    justify-content: center;
+
+  }
+}
+@media only screen and (max-width: 815px) {
+  .contact {
+    display: block;
+    justify-content: center;
+  }
+  .contact_child{
+    width: 100%;
+  }
+  .fast{
+    width: 100%;
+    margin-top: 60px;
+  }
+}
+@media only screen and (max-width:1429px){
+  .education .education_child_child{
+    margin: 20px 7px;
+    margin-bottom: 30px;
+  }
+  
+  .education .education_child_child svg {
+    width: 38px;
+    height: 38px;
+  }
+  .education .education_child_child h3 {
+    font-size:18px;
+  }
+  
+  .percentaze{
+    width: 150px;
+  }
+
+}
